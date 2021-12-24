@@ -17,3 +17,7 @@ Next, add your kernel name to the app. Open init.spectrum.rc and change "Electro
 to your kernel's name.
 
 All that is left is to customize the 4 profiles in init.spectrum.rc to your liking! Profile 0 (Balanced) is the default, however, this can be changed in init.spectrum.sh.
+
+UPDATE: If you are done, install [**Spectrum via Google Play**](https://play.google.com/store/apps/details?id=org.frap129.spectrum), and you are done!!
+
+**Enjoy, btw remember to root**
