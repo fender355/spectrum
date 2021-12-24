@@ -18,6 +18,6 @@ to your kernel's name.
 
 All that is left is to customize the 4 profiles in init.spectrum.rc to your liking! Profile 0 (Balanced) is the default, however, this can be changed in init.spectrum.sh.
 
-UPDATE: If you are done, install [**Spectrum**](https://www.mediafire.com/file/l2ddgsm6pilwlyp/Spectrum-org.frap129.spectrum-1.5-5.apk/file), and you are done!!
+At last, install [**Spectrum**](https://www.mediafire.com/file/l2ddgsm6pilwlyp/Spectrum-org.frap129.spectrum-1.5-5.apk/file), and you are done!!
 
 **Enjoy, btw remember to root**
